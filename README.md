@@ -25,7 +25,20 @@ League administrator wants to run the following reports:
 2.	Game Report – teams, goals scored, win/loss, head coach, head ref, date, match number.
 3.	Player Performance – play full name, total minutes played, penalties, goals, games.
 4.	Team Report – team name, games played, goals for and goals against, differential, win/loss record. 
-5.	
+
 **Rosters**
 The league wants to be able to track rosters for each season. You need to figure out how to design the relationship between players and teams to support the tracking of player/team assignments based on season. 
+
+## Skills Learned
+- Developed an end-to-end SQL project utilizing ERD (Entities, Attributes, Cardinality, Optionality, dependent entities, associative entity), EERD, and Relational Schema
+- Utilized Microsoft Visio and Dictionary for database design and organization
+- Built a database with derived attributes (such as calculating age from DoB), and set primary keys, foreign keys, recursive foreign keys, composite keys, and unique keys
+- Implemented different types of indexes including clustered, non-clustered, and filtered index, as well as composite indexes
+- Created user-defined data types, set default values, and applied Check Constraints and triggers (including delete trigger, update trigger, instead of trigger, and history table)
+- Inserted values into the table using generatedata.com, and created views and indexed views
+Developed stored procedures (SPROC) with and without parameters
+- Utilized advanced SQL techniques such as JOIN (INNER, LEFT/RIGHT, FULL, CROSS, SELF), Nested Queries, CTE, HAVING, GROUP BY, Joining a view to a table, PARTITION BY, and DATEADD.
+
+Additionally, created a comprehensive diagram to illustrate the project.
+
 
