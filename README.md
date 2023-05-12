@@ -18,12 +18,14 @@ Matches take place at soccer fields. Sponsors can support fields by placing bann
 Vendors sell items at specific fields. Each field has several vendors. The league tracks the vendor assignments by season. In addition to the vendor’s name, the league records the vendor phone number and the vendor type. Some vendors offer multiple types of services, for example: food, beverage, clothing, soccer suppliers, and other items.
 
 The league also tracks coaches. A coach can be assigned to more than one team, but only as one role per assignment. Coaching roles are head (HC), assistant (AC), volunteer (VC). Each team can have multiple coaches, but only one role at a time may be assigned to a single coach. Coach assignments are based upon season. 
+
 **Reports**
 League administrator wants to run the following reports:
 1.	Team Rosters – player full name and age calculated from DOB.
 2.	Game Report – teams, goals scored, win/loss, head coach, head ref, date, match number.
 3.	Player Performance – play full name, total minutes played, penalties, goals, games.
 4.	Team Report – team name, games played, goals for and goals against, differential, win/loss record. 
+5.	
 **Rosters**
 The league wants to be able to track rosters for each season. You need to figure out how to design the relationship between players and teams to support the tracking of player/team assignments based on season. 
 
